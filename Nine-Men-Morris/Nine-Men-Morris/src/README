@@ -1,0 +1,18 @@
+Game instruction
+Place tokens:
+1. Input the index to select which position you want to place
+2. Mills can be detected when there is three tokens are connected in horizontal or vertical
+3. When a mill is detected, please input the index to select which token you want to remove from your opponent
+
+Move tokens:
+1. Input the index to select which position you want to move from
+2. Input the index to select which position you want to move to
+3. Mills can be detected when there is three tokens are connected in horizontal or vertical
+4. When a mill is detected, please input the index to select which token you want to remove from your opponent
+5. When your token amount on the board is greater than 3, you can only move horizontally or vertically
+6. When your token amount on the board is greater than 3, you can move to any position on the board
+
+Undo:
+1. You can select undo function by inputting 0
+2. You can keep undoing your action until it goes back to the initial state
+3. You can quit undoing function by inputting 1

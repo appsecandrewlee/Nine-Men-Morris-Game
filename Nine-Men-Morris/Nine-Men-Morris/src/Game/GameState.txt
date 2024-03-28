@@ -1,0 +1,9 @@
+board
+ Board.BoardLayout@87aac27number of tokens
+ 0
+total moves
+ 1[W=0]currentPlayer
+Player.playerBlack@1218025c
+Previous Positions
+
+[Position.Position@3e3abc88, Position.Position@6ce253f1, Position.Position@53d8d10a, Position.Position@e9e54c2, Position.Position@65ab7765, Position.Position@1b28cdfa, Position.Position@eed1f14, Position.Position@7229724f, Position.Position@4c873330, Position.Position@119d7047, Position.Position@776ec8df, Position.Position@4eec7777, Position.Position@3b07d329, Position.Position@41629346, Position.Position@404b9385, Position.Position@6d311334, Position.Position@682a0b20, Position.Position@3d075dc0, Position.Position@214c265e, Position.Position@448139f0, Position.Position@7cca494b, Position.Position@7ba4f24f, Position.Position@3b9a45b3, Position.Position@7699a589]
